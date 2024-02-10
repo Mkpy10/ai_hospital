@@ -1,0 +1,74 @@
+body{
+    background-color: white;
+}
+
+.my_nav_bar{
+    background-color: black;
+    color: yellow;
+    position: relative;
+}
+
+#marqueeStyle{
+    background-color: white;
+    color: black;
+    font-weight: bolder;
+    font-size: larger;
+}
+
+div{
+    color: black;
+    align-items: center;
+    
+}
+
+ul{
+    color: black;
+}
+
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+    font-weight: bolder;
+    font-size: large;
+  }
+  
+.row{
+    align-items: center;
+}
+
+#homediv{
+    background-color: red;
+    color: white;
+}
+
+#aboutdiv{
+    background-color: red;
+    color: white;
+}
+
+#linksdiv{
+    background-color: red;
+    color: white;
+}
+
+#contactdiv{
+    background-color: red;
+    color: white;
+}
+
+#whitediv1{
+    background-color: white;
+}
+
+#whitediv2{
+    background-color: white;
+}
+
+#whitediv3{
+    background-color: white;
+}
+
+#whitediv4{
+    background-color: white;
+}
